@@ -1,2 +1,2 @@
 # test1
-test using giyhub
+test using github
